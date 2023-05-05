@@ -1,8 +1,8 @@
 # WebLISP Compiler
-Welcome to the WebLISP Compiler repository! This is where the heart of the WebLISP language lives. This repository contains the source code for the WebLISP compiler, which is responsible for parsing WebLISP source code and generating efficient WebAssembly bytecode that can be executed in the browser.
+The WebLISP compiler repository will contain the source code for the compiler that will transform the WebLISP source code into the WebAssembly bytecode. The compiler is implemented in a hybrid approach that combines the best features of interpreted and compiled languages to provide a high-performance output. It will take advantage of the latest browser technologies to deliver fast and reliable performance.
 
 ## Project Goals
-The main goal of this project is to create a high-performance, easy-to-use language that is specifically designed for building games and other high-performance applications that run in the browser. We believe that by leveraging the power of WebAssembly and taking a hybrid approach to compiling and interpreting code, we can achieve this goal and create a language that is faster and more efficient than any other language for building browser-based applications.
+The main goal of this project is to create a high-performance, easy-to-use language that is specifically designed for building games and other heavy applications that run in the browser. We believe that by leveraging the power of WebAssembly and taking a hybrid approach to compiling and interpreting code, we can achieve this goal and create a language that is faster and more efficient than any other language for building browser-based applications.
 
 ## Features
 The WebLISP Compiler will include the following features:

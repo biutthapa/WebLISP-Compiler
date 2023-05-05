@@ -1,4 +1,4 @@
-# WebLISP Compiler
+# The WebLISP Compiler
 The WebLISP compiler repository will contain the source code for the compiler that will transform the WebLISP source code into the WebAssembly bytecode. The compiler is implemented in a hybrid approach that combines the best features of interpreted and compiled languages to provide a high-performance output. It will take advantage of the latest browser technologies to deliver fast and reliable performance.
 
 ## Project Goals

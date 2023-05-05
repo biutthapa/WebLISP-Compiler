@@ -7,7 +7,7 @@ The main goal of this project is to create a high-performance, easy-to-use langu
 ## Features
 The WebLISP Compiler will include the following features:
 - A hybrid approach to compiling and interpreting WebLISP code for maximum performance
-- Code specialization techniques to optimize WebLISP for specific types of games
+- Code specialization techniques to optimize WebLISP for specific types of apps and games
 - Voxel-based rendering for fast, efficient rendering of complex 3D scenes
 - Integration with popular game engines and frameworks
 - A powerful standard library that includes everything a game engine should be able to do

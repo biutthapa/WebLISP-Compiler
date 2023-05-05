@@ -1,7 +1,7 @@
 # The WebLISP Compiler
 The WebLISP compiler repository will contain the source code for the compiler that will transform the WebLISP source code into the WebAssembly bytecode. The compiler is implemented in a hybrid approach that combines the best features of interpreted and compiled languages to provide a high-performance output. It will take advantage of the latest browser technologies to deliver fast and reliable performance.
 
-Imagine building games and high-performance applications (like Adobe Photoshop and Autodesk Maya) that run smoothly on web-browsers. That's what this project aims to be.
+Imagine writing games and high-performance applications (like Adobe Photoshop and Autodesk Maya) that run smoothly on web-browsers. That's what this project aims to be.
 
 ## Project Goals
 The main goal of this project is to create a high-performance, easy-to-use language that is specifically designed for building games and other heavy applications that run in the browser. We believe that by leveraging the power of WebAssembly and taking a hybrid approach to compiling and interpreting code, we can achieve this goal and create a language that is faster and more efficient than any other language for building browser-based applications.
